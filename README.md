@@ -2,4 +2,7 @@
 Base64 Multiple Encode
 
 ## Credits
-`John Mark Banisilon`
+-`John Mark Banisilon` Coded `base64.py`
+
+
+
