@@ -1,6 +1,6 @@
 from base64 import b64encode, b64decode
 
-flag = "fl4g{C0ngr4tss_Mo7h3r_fuck3r}"
+flag = "fl4g{...}"
 flagencode = b64encode(flag.encode())
 flagencode1 = b64encode(flagencode).decode()
 output = str(flagencode1)
