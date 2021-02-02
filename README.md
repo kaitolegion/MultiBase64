@@ -2,7 +2,7 @@
 Base64 Multiple Encode
 
 ## Credits
--`John Mark Banisilon` Coded `base64.py`
+-`John Mark Banisilon` He Coded `base64.py` thanks for help to find problem
 
 
 
